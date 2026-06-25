@@ -1,0 +1,7 @@
+deepagents
+tavily-python
+streamlit
+langchain-openai
+pypdf
+python-docx
+pandas
